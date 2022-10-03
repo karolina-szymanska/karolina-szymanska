@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Front-end Development at Noroff
 - 👀 I’m looking to collaborate on Front-end projects
 - 🤔 I’m looking for help with JavaScript
-- 📫 How to reach me: send me a message on GitHub or email me: karolinaszymanska899@gmail.com
+- 📫 How to reach me: karolinaszymanska899@gmail.com
 - 😄 Fun fact: I like animals 🐶🐱🐰
