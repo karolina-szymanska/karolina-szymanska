@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Karolina
-- 🔭 I’m currently working on my Portfolio page
+- 🔭 I’m currently working on CSS Frameworks
 - 🌱 I’m currently learning Front-end Development at Noroff
 - 👀 I’m looking to collaborate on Front-end projects
 - 🤔 I’m looking for help with JavaScript
