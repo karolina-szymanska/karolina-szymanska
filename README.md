@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Karolina
-- 🔭 I’m currently working on Workflow
+- 🔭 I’m currently working on JavaScript Frameworks
 - 🌱 I’m currently learning Frontend Development at Noroff
 - 👀 I’m looking to collaborate on Frontend projects
 - 📫 How to reach me: karolinaszymanska899@gmail.com
