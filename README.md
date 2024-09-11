@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Karolina
-- 🔭 I’m currently working on Project Exam 2
+- 🔭 I’m currently working on Portfolio 2
 - 🌱 I’m currently learning Frontend Development at Noroff
 - 👀 I’m looking to collaborate on Frontend projects
 - 📫 How to reach me: karolinaszymanska899@gmail.com
